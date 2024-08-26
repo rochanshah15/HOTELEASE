@@ -2,6 +2,7 @@
  The Hotel Management System is a Java-based application designed to streamline hotel operations, including room management, customer details, employee management, and billing. This system provides separate panels for administrators and receptionists, automating key processes and ensuring efficient management.
 
 Features
+
 Admin Panel:
 1.Add or remove employees.
 2.Manage room inventory.
