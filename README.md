@@ -27,10 +27,9 @@ Validation:
 
 Technology Stack
 
--Language: Java
-
+-Language: Java.
+DSA - stack,linkedlist,sorting,Binary search
 -Database: MySQL
-
 -Tools: JDBC, PL/pgSQL
 
 
