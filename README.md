@@ -26,9 +26,12 @@ Validation:
 2.Input validation for customer and employee details.
 
 Technology Stack
-Language: Java
-Database: MySQL
-Tools: JDBC, PL/pgSQL
+
+-Language: Java
+
+-Database: MySQL
+
+-Tools: JDBC, PL/pgSQL
 
 
 How to Run
