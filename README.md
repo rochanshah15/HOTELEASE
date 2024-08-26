@@ -34,8 +34,9 @@ Technology Stack
 -Tools: JDBC, PL/pgSQL
 
 
-How to Run
-Clone the repository.
-Set up the MySQL database with the provided schema.
-Configure the database connection in the application.
-Run the application via a Java IDE or command line.
+How to Run 
+
+1.Clone the repository.
+2.Set up the MySQL database with the provided schema.
+3.Configure the database connection in the application.
+4.Run the application via a Java IDE or command line.
